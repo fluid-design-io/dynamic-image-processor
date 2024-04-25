@@ -4,6 +4,10 @@
   "description": "Automatically converts images to AVIF format and updates image tags with actual dimensions.",
   "version": "0.0.1",
   "icon": "images/icon.png",
+  "author": {
+    "name": "Oliver Pan",
+    "email": "panjiuzhen@gmail.com"
+  },
   "engines": {
     "vscode": "^1.88.0"
   },
