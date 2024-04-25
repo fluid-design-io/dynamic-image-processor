@@ -2,7 +2,7 @@
   "name": "dynamic-image-processor",
   "displayName": "Dynamic Image Processor",
   "description": "Automatically converts images to AVIF format and updates image tags with actual dimensions.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "images/icon.png",
   "author": {
     "name": "Oliver Pan",
